@@ -30,7 +30,7 @@ The members database file is a text file with the following format:
 	attr2,value2
 	...
 	attrN,valueP
-Each member record separated by a single blank line.
+Each member record separated by a single blank line, and there is a blank line after the last record.
 
 The attribute translator file consists of one or more lines with the following comma-separated format:
 	source_attribute,source_value,compatible_attribute,compatible_value

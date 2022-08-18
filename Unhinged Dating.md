@@ -1,3 +1,5 @@
+Note: The executable right now only supports Mac OS. If you are using another machine, please contact me for the source code!
+
 This piece of software is a class project of CS 32 at UCLA.
 This is a command-line based dating software. Here is how one may use it:
 	Please enter the path of your member database: /home/unhinged-dating/members.txt

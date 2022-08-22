@@ -2,6 +2,7 @@ Note: The executable right now only supports Mac OS. If you are using another ma
 
 This piece of software is a class project of CS 32 at UCLA.
 This is a command-line based dating software. Here is how one may use it:
+
 	Please enter the path of your member database: /home/unhinged-dating/members.txt
 	Please enter the path of your translator file: /home/unhinged-dating/translator.txt
 	Enter the member's email for whom you want to find matches: sm0lbirg@hotmail.com
@@ -19,12 +20,13 @@ This is a command-line based dating software. Here is how one may use it:
 *You can quit by hitting enter.
 
 The members database file is a text file with the following format:
+
 	Person 1’s name
-  Person 1’s email address
+  	Person 1’s email address
 	Count of number of attribute-value pairs for person 1 attr1,value1
 	attr2,value2
 	...
-  attrN,valueN
+  	attrN,valueN
 	
 	Person 2’s name
 	Person 2’s email address
